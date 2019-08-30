@@ -1,4 +1,5 @@
-*{
+
+M*{
 margin: 0;
 pading: 0;
 font-family: sans-serif;
@@ -50,4 +51,17 @@ top: 25%;
 left: 130px;
 position: absolute;
 color: #fff;
+}
+.app-text h1{
+font-size: 43px;
+width: 640px;
+position: relative;
+margin-left: 40px;
+}
+.app-text p{
+width: 650px;
+font-size: 15px;
+margin: 30px 0 30px 40px;
+line-height: 25px;
+color: #919191;
 }
