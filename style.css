@@ -64,3 +64,12 @@ margin: 30px 0 30px 40px;
 line-height: 25px;
 color: #919191;
 }
+.app-picture{
+width: 50%;
+float: right;
+}
+.app-picture img{
+width: 100%;
+margin-top: -20px;
+padding-left: 50px;
+}
