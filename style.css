@@ -65,11 +65,11 @@ line-height: 25px;
 color: #919191;
 }
 .app-picture{
-width: 50%;
+width: 100%; 
 float: right;
 }
 .app-picture img{
-width: 50%;
-margin-top: 0px;
+width: 100%;
+margin-top: -100px;
 padding-left: 50px;
 }
